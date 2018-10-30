@@ -1,6 +1,6 @@
 {
-  "file": "https://raw.githubusercontent.com/paoyo1/data_test/master/sample.csv",
-  "name": "Test",
+  "file": "https://raw.githubusercontent.com/paoyo1/data_test/master/sample_3papers.csv",
+  "name": "Sample 3 papers",
   "header": 0,
   "separator": ";",
   "skip": 0,
@@ -8,6 +8,6 @@
     { "type": "id", "index": 0, "name": "Name" }
   ],
   "sets": [
-    { "format": "binary", "start": 1, "end": 27 }
+    { "format": "binary", "start": 1, "end": 3 }
   ]
 }
